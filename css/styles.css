@@ -65,7 +65,7 @@ p {
 
 .coursehead {
   text-align: center;
-  padding: 10vh 3% 3% 3%;
+  padding: 9vh 3% 3% 3%;
 }
 
 /* topic cards. */
@@ -122,7 +122,7 @@ p {
 }
 
 .cp {
-  padding: 0.5rem 0 0.1rem 0;
+  padding: 0.5rem 0 0 0;
   color: grey;
   font-size: 1rem;
 }
@@ -132,7 +132,7 @@ p {
   margin-right: 2%;
 }
 
-/* X */
+/* navbaar 'X' */
 .navbar {
   background-color: #fcf876;
 }
