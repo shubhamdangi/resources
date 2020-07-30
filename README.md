@@ -1,9 +1,9 @@
 
 <p align="center"> 
-&nbsp; &nbsp; <img src="https://image.flaticon.com/icons/svg/74/74960.svg" width="180" height="170">
+&nbsp; &nbsp; &nbsp; <img src="https://image.flaticon.com/icons/svg/74/74960.svg" width="180" height="170">
 </p>
 <div align="center"> 
-<h1>RESOURCES</h1>
+<a href="https://technoshubham.github.io/resources/"><h1>RESOURCES</h1></a>
 </div>
   <br>
   <div align="center"> 
@@ -17,10 +17,11 @@
   <br>
   <div align="center"> 
 <h2>Streams</h2>
-</div>
-   <p align="center"> 
+  <p align="center"> 
 <img src="UI/readme2.png">
 </p>
+</div>
+   
   
 <br>
     <div align="center"> 
