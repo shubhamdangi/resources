@@ -1,4 +1,13 @@
+<div align="center">
+  my text here.
+</div>
+<center>Centered text</center>
+<p align="center" background-color: "black"> 
 <img src="UI/ico.png">
+</p>
+<div align="center"> 
+<h1>RESOURCES</h1>
+</div>
 <h1 style="text-align: center;"> Resources <h1>
   <br>
   <h3>A one-stop forum for resources related to Web development(frontend+backend), App Development, Information Security, UI/UX Design, Automation etc.
@@ -12,3 +21,4 @@
     <p>A Shubham Dangi Production.</p>
     <p>inspired by the 'awesome *' github community </p>
     
+&#10084;&#65039;
