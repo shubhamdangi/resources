@@ -31,5 +31,5 @@
   <p>Feel free to contribute.<br>Suggestions/Add-ons to the content are most welcome!</p>
 </div>
 <div align="center"> 
- <p>A Shubham Dangi Production.&#127760;&#127759;</p>
+ <p>A Shubham Dangi Production.&#127759;</p>
  </div>
