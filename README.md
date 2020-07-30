@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<img src="https://image.flaticon.com/icons/svg/74/74960.svg" width="200" height="200">
+&nbsp; <img src="https://image.flaticon.com/icons/svg/74/74960.svg" width="200" height="200">
 </p>
 <div align="center"> 
 <h1>RESOURCES</h1>
