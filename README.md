@@ -24,10 +24,12 @@
   
 <br>
     <div align="center"> 
- <p>A Shubham Dangi Production.</p>
-    <p>inspired by the 'awesome *' github community </p>
+ <p>inspired by the 'awesome *' github community </p>
 </div>
     
 <div align="center"> 
-  <p>Suggestions/Add-ons to the content are most welcome!&#10084;&#65039; <br>Feel Free to contribute.</p>
+  <p>Feel free to contribute.<br>Suggestions/Add-ons to the content are most welcome!&#10084;&#65039;</p>
 </div>
+<div align="center"> 
+ <p>A Shubham Dangi Production.</p>
+ </div>
