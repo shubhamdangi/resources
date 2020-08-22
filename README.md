@@ -2,7 +2,7 @@
 <p align="center"> 
 &nbsp; &nbsp; &nbsp; <img src="https://image.flaticon.com/icons/svg/74/74960.svg" width="180" height="170">
 </p>
-<div align="center"><h1>RESOURCES</h1><br>https://technoshubham.github.io/resources/
+<div align="center"><h1>RESOURCES</h1><br>https://technoshubham.github.io/resources
 </div>
   <br>
   <div align="center"> 
