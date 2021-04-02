@@ -84,6 +84,12 @@ p {
   overflow: hidden;
 }
 
+//zoom in effect check
+.card{  -moz-transform: scale(1); -webkit-transform: scale(1); transform: scale(1); transition:0.7s ease all; -webkit-transition:0.7s ease all; -moz-transition:0.7s ease all;}
+
+.card:hover{ -moz-transform: scale(1); -webkit-transform: scale(1); transform: scale(1.05);}
+//end
+
 .cards {
   place-items: center;
   padding-left: 5rem;
