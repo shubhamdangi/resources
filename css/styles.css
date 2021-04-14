@@ -1,0 +1,196 @@
+/* homepage banner */
+#banner {
+  background-color: #fcf876;
+  width: 100%;
+  text-align: center;
+  padding-top: 12%;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 900;
+  padding-bottom: 0;
+}
+
+.heading {
+  text-decoration: none;
+  letter-spacing: 3px;
+  font-size: 8vh;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.heading2 {
+  text-decoration: none;
+  margin-top: 0;
+  padding-top: 0;
+  letter-spacing: 3px;
+  font-size: 9vh;
+}
+
+p {
+  padding-top: 20px;
+  font-size: larger;
+  letter-spacing: 1px;
+ }
+
+/* banner headings */
+.tag {
+  
+  padding: 4% 2% 20% 3%;
+  
+  margin: auto;
+}
+
+.pic {
+  width: 65%;
+}
+
+.navbar {
+  background-color: #fcf876;
+  ;
+}
+
+.navbar-nav {
+  letter-spacing: 1px;
+}
+
+#demo {
+  text-align: center;
+  font-size: 60px;
+}
+
+#courses {
+  background-color: #f9f9f9;
+  padding-bottom: 5rem;
+}
+
+.coursehead {
+  text-align: center;
+  padding: 10vh 2% 3.5% 2%;
+}
+
+/* topic cards. */
+.card {
+  padding-top: 8%;
+  margin-bottom: 15%;
+  place-items: center;
+  width: 14rem;
+  height: 14rem;
+  text-align: center;
+  border-radius: 12px;
+  margin-right: 0%;
+}
+
+.card:hover {
+  border: 1.8px solid #333333;
+  overflow: hidden;
+}
+
+/* zoom in effect check */
+.card{  -moz-transform: scale(1); -webkit-transform: scale(1); transform: scale(1); transition:0.7s ease all; -webkit-transition:0.7s ease all; -moz-transition:0.7s ease all;}
+
+.card:hover{ -moz-transform: scale(1); -webkit-transform: scale(1); transform: scale(1.05);}
+
+/* end */
+
+.cards {
+  place-items: center;
+  padding-left: 5rem;
+}
+
+/* for typewriting effect */
+.typew {
+  font-family: 'Raleway', sans-serif;
+  padding: 5% 5%;
+  font-size: 1rem;
+  background-color: #fbfd8a;
+  padding-left: 1%;
+  height: 22rem;
+}
+
+/* for typewriting effect */
+.h11 {
+  font-weight: 400;
+  margin: 0.4em 0;
+  font-size: 3.5em;
+  color: black;
+}
+
+#footer {
+  padding-top: 8rem;
+  text-align: center;
+  background-color: #f9f9f9;
+  ;
+}
+
+.foot {
+  padding: 10px;
+  padding-bottom: 0%;
+  width: 40px;
+}
+
+.cp {
+  padding: 0.5rem 0 0 0;
+  color: grey;
+  font-size: 1rem;
+}
+
+.contents {
+  margin-left: 8%;
+  margin-right: 2%;
+}
+
+/* navbaar 'X' */
+.navbar {
+  background-color: #fcf876;
+}
+
+#nav-toggle {
+  position: fixed;
+  left: 84%;
+  top: 1.5%;
+}
+
+#nav-toggle {
+  cursor: pointer;
+  padding: 15px 38px 18px 9px;
+}
+
+#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
+  cursor: pointer;
+  border-radius: 1px;
+  height: 3px;
+  width: 30px;
+  background: #4b5d67;
+  position: absolute;
+  display: block;
+  content: '';
+}
+
+#nav-toggle span:before {
+  top: -10px;
+}
+
+#nav-toggle span:after {
+  bottom: -10px;
+}
+
+#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
+  transition: all 200ms ease-in-out;
+}
+
+#nav-toggle.active span {
+  background-color: transparent;
+}
+
+#nav-toggle.active span:before, #nav-toggle.active span:after {
+  top: 0;
+}
+
+#nav-toggle.active span:before {
+  transform: rotate(45deg);
+}
+
+#nav-toggle.active span:after {
+  transform: rotate(-45deg);
+}
+
+/* Made with <3 by Shubham Dangi */
