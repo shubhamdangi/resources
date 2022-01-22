@@ -28,11 +28,9 @@
 </div>
     
 <div align="center"> 
-  <p>Feel free to contribute.<br>Suggestions/Add-ons to the content are most welcome!</p>
+  <p>Feel free to contribute.<br></p>
 </div>
-<div align="center"> 
- <p>A Shubham Dangi Production.&#127759;</p>
- </div>
+
 
 <br>
 
