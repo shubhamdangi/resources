@@ -33,3 +33,7 @@
 <div align="center"> 
  <p>A Shubham Dangi Production.&#127759;</p>
  </div>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@ishubhamdangi&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/ishubhamdangi/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@ishubhamdangi&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/ishubhamdangi) [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@ishubhamdangi&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/ishubhamdangi/) 
