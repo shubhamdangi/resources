@@ -6,7 +6,7 @@
 </div>
   <br>
   <div align="center"> 
-<h2>A one-stop forum for resources related to Web development(frontend+backend), App Development, Information Security, UI/UX Design, Automation etc.
+<h2>A one-stop forum for resources related to Web development(frontend+backend), App Development, Information Security, UI/UX Design, Automation and many more coming!
 </h2>
 </div>
 <br>
