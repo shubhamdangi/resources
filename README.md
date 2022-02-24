@@ -28,7 +28,7 @@
 </div>
     <br>
 <div align="center"> 
-  <p>Feel free to connect.<br></p>
+  <p>Feel free to add/contribute content.<br></p>
 </div>
 
 <p>Lets Connect:</p> 
